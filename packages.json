@@ -1,5 +1,9 @@
 [
   {
+    "package": "presidentSpeech",
+    "url": "https://github.com/forkonlp/presidentSpeech"
+  },
+  {
     "package": "newspaper",
     "url": "https://github.com/forkonlp/newspaper"
   },
