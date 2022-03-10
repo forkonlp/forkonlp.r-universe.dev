@@ -16,6 +16,10 @@
     "url": "https://github.com/forkonlp/KoSpacing"
   },
   {
+    "package": "hashmap",
+    "url": "https://github.com/forkonlp/hashmap"
+  },
+  {
     "package": "KoNLP",
     "url": "https://github.com/forkonlp/KoNLP"
   },
