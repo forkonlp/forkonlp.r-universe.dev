@@ -20,6 +20,10 @@
     "url": "https://github.com/forkonlp/KoNLP"
   },
   {
+    "package": "NIADic",
+    "url": "https://github.com/forkonlp/NIADic"
+  },
+  {
     "package": "DNH4",
     "url": "https://github.com/forkonlp/DNH4"
   }
